@@ -9,3 +9,5 @@ node_modules/
 .env
 playwright/.auth/*.json
 **/*.zip
+resources/wordpress-plugins/betterlinks*
+resources/wordpress-plugins/automation-helper
